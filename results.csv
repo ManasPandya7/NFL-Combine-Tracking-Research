@@ -1,0 +1,4 @@
+model,ROC-AUC,Average precision,Brier score
+Traditional logistic,0.803,0.828,0.196
+Traditional + tracking logistic,0.791,0.82,0.2
+Traditional + tracking forest,0.77,0.786,0.2
